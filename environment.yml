@@ -9,3 +9,27 @@ dependencies:
   - jupyter-server-proxy
   - ca-certificates
   - certifi
+  - openssl
+  - xarray
+  - intake-xarray
+  - rioxarray
+  - dask
+  - dask-jobqueue
+  - dask-labextension
+  - graphviz
+  - scipy
+  - hvplot
+  - panel=0.14.*
+  - diff-match-patch
+  - fiona
+  - geoviews
+  - datashader
+  - zarr
+  - numcodecs
+  - xesmf
+  - statsmodels
+  - widgetsnbextension
+  - s3fs
+  - rechunker
+  - xbitinfo
+  - geopandas
