@@ -1,0 +1,11 @@
+name: hytest
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - jupyter
+  - jupyterlab
+  - nbstripout
+  - jupyter-server-proxy
+  - ca-certificates
+  - certifi
