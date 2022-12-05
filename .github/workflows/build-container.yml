@@ -4,7 +4,7 @@ on:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: gzt5142/htdemo
+  IMAGE_NAME: hytest-org/htdemo
 
 jobs:
   build-push-image:
